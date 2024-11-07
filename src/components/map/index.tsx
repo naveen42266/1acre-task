@@ -15,7 +15,6 @@ const containerStyle = {
 
 
 const Map: React.FC<MapProps> = ({ lat, lng, zoom, locationDetails }) => {
-  console.log(process.env.key)
   const yellowCircleIcon = {
     path: "M 0, 0 m -7, 0 a 7,7 0 1,0 14,0 a 7,7 0 1,0 -14,0",
     fillColor: "yellow",
