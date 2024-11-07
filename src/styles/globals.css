@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0 auto;
+  min-width: 50em;
+  max-width: 75em;
+  color: #0a2458;
+  padding: 2em 1em;
+}
+
+
