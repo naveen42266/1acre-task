@@ -1,6 +1,5 @@
 import React from 'react';
 import { GoogleMap, useLoadScript, Marker } from '@react-google-maps/api';
-import environment from "../../../environment.json";
 
 interface MapProps {
   lat: number;
@@ -16,7 +15,7 @@ const containerStyle = {
 
 
 const Map: React.FC<MapProps> = ({ lat, lng, zoom, locationDetails }) => {
-
+  console.log(process.env.key)
   const yellowCircleIcon = {
     path: "M 0, 0 m -7, 0 a 7,7 0 1,0 14,0 a 7,7 0 1,0 -14,0",
     fillColor: "yellow",
@@ -37,7 +36,7 @@ const Map: React.FC<MapProps> = ({ lat, lng, zoom, locationDetails }) => {
 
 
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: environment?.gMaps?.key || '',
+    googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || '',
   });
 
   if (loadError) return <p>Error loading map</p>;
