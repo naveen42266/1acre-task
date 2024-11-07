@@ -1,0 +1,1906 @@
+{
+    "count": 137,
+    "results": [
+        {
+            "id": 4027,
+            "land_media": [
+                {
+                    "id": 42005,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_1_j2nnfp",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-23T09:57:12.539636Z",
+                    "updated_at": "2024-10-23T09:57:12.539658Z"
+                },
+                {
+                    "id": 42006,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_2_bh0jct",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-23T09:57:13.315107Z",
+                    "updated_at": "2024-10-23T09:57:13.315128Z"
+                },
+                {
+                    "id": 42007,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_3_bgxade",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-23T09:57:14.088943Z",
+                    "updated_at": "2024-10-23T09:57:14.088970Z"
+                },
+                {
+                    "id": 42008,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_kpzyuk",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-23T09:57:14.985176Z",
+                    "updated_at": "2024-10-23T09:57:14.985198Z"
+                },
+                {
+                    "id": 42009,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/road_1_sa3u8o",
+                    "media_type": "image",
+                    "category": "approach_road",
+                    "created_at": "2024-10-23T09:57:15.801617Z",
+                    "updated_at": "2024-10-23T09:57:15.801638Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3981,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3735,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": false,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3726,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17574,
+                    "name": "Rangareddy",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18038,
+                    "name": "Kondurg",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 25698,
+                    "name": "Regadi Chilakamarri",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 1.0,
+                "guntas": 4.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 1.0,
+                "lakh": 20.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/rangareddy/kondurg/regadi-chilakamarri/4027",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "bengaluru highway",
+                    "slug": "bengaluru-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.969901Z",
+                    "updated_at": "2024-01-11T06:38:39.969918Z"
+                }
+            ],
+            "description": "",
+            "total_price": 132.0,
+            "price_per_acre": 120.0,
+            "price_per_hectare": null,
+            "total_land_size": 44.0,
+            "lat": "17.1674801",
+            "long": "78.0436028",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": true,
+            "fencing": false,
+            "crop_type": null,
+            "soil_type": "Black",
+            "created_at": "2024-10-23T09:57:10.921517Z",
+            "updated_at": "2024-10-23T10:51:28.322469Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B010'03.1%22N+78%C2%B002'36.8%22E/@17.1674801,78.0436028,103m/data=!3m1!1e3!4m4!3m3!8m2!3d17.1675179!4d78.0435518?hl=en&entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "250aa/1",
+            "lp_number": null,
+            "electricity": false,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 40.0,
+            "approach_road_type": "blacktop",
+            "fencing_description": "",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 49.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        },
+        {
+            "id": 4025,
+            "land_media": [
+                {
+                    "id": 41989,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_1_mwonsq",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-23T08:11:19.490884Z",
+                    "updated_at": "2024-10-23T08:11:19.490908Z"
+                },
+                {
+                    "id": 41990,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_2_od05ik",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-23T08:11:20.564471Z",
+                    "updated_at": "2024-10-23T08:11:20.564495Z"
+                },
+                {
+                    "id": 41991,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_hbculp",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-23T08:11:21.946667Z",
+                    "updated_at": "2024-10-23T08:11:21.946690Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3979,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3733,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": false,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3724,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17574,
+                    "name": "Rangareddy",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18038,
+                    "name": "Kondurg",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 25692,
+                    "name": "Ummethyal Lalapeta",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 2.0,
+                "guntas": 0.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 0.0,
+                "lakh": 70.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/rangareddy/kondurg/ummethyal-lalapeta/4025",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "chevella highway",
+                    "slug": "chevella-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.915168Z",
+                    "updated_at": "2024-01-11T06:38:39.915204Z"
+                },
+                {
+                    "name": "bengaluru highway",
+                    "slug": "bengaluru-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.969901Z",
+                    "updated_at": "2024-01-11T06:38:39.969918Z"
+                }
+            ],
+            "description": "",
+            "total_price": 140.0,
+            "price_per_acre": 70.0,
+            "price_per_hectare": null,
+            "total_land_size": 80.0,
+            "lat": "17.1459702",
+            "long": "78.0348914",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": false,
+            "fencing": false,
+            "crop_type": null,
+            "soil_type": "Black",
+            "created_at": "2024-10-23T08:11:17.156628Z",
+            "updated_at": "2024-10-23T11:04:48.454236Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B008'45.6%22N+78%C2%B002'05.5%22E/@17.1459702,78.0348914,122m/data=!3m1!1e3!4m4!3m3!8m2!3d17.1459851!4d78.0348565?hl=en&entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "106",
+            "lp_number": null,
+            "electricity": false,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 0.0,
+            "approach_road_type": "",
+            "fencing_description": "",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 53.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        },
+        {
+            "id": 4005,
+            "land_media": [
+                {
+                    "id": 41772,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/LAND_1_iasq4c",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-22T06:25:06.690862Z",
+                    "updated_at": "2024-10-22T06:25:06.690884Z"
+                },
+                {
+                    "id": 41773,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_2_htwx8y",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-22T06:25:07.446441Z",
+                    "updated_at": "2024-10-22T06:25:07.446591Z"
+                },
+                {
+                    "id": 41774,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_3_xn23wk",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-22T06:25:08.382383Z",
+                    "updated_at": "2024-10-22T06:25:08.382405Z"
+                },
+                {
+                    "id": 41775,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_llbftz",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-22T06:25:09.213404Z",
+                    "updated_at": "2024-10-22T06:25:09.213425Z"
+                },
+                {
+                    "id": 41776,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/road_1_zvklgg",
+                    "media_type": "image",
+                    "category": "approach_road",
+                    "created_at": "2024-10-22T06:25:09.795145Z",
+                    "updated_at": "2024-10-22T06:25:09.795166Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3959,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3713,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": false,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3704,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17574,
+                    "name": "Rangareddy",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18038,
+                    "name": "Kondurg",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 25698,
+                    "name": "Regadi Chilakamarri",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 1.0,
+                "guntas": 16.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 1.0,
+                "lakh": 20.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/rangareddy/kondurg/regadi-chilakamarri/4005",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "chevella highway",
+                    "slug": "chevella-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.915168Z",
+                    "updated_at": "2024-01-11T06:38:39.915204Z"
+                }
+            ],
+            "description": "",
+            "total_price": 168.0,
+            "price_per_acre": 120.0,
+            "price_per_hectare": null,
+            "total_land_size": 56.0,
+            "lat": "17.1722656",
+            "long": "78.0527608",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": true,
+            "fencing": false,
+            "crop_type": null,
+            "soil_type": "Black",
+            "created_at": "2024-10-22T06:25:04.516986Z",
+            "updated_at": "2024-10-22T11:25:49.869790Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B010'20.1%22N+78%C2%B003'09.6%22E/@17.1722656,78.0527608,103m/data=!3m1!1e3!4m4!3m3!8m2!3d17.1722527!4d78.0526625?hl=en&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "294",
+            "lp_number": null,
+            "electricity": false,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 40.0,
+            "approach_road_type": "blacktop",
+            "fencing_description": "",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 48.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        },
+        {
+            "id": 3958,
+            "land_media": [
+                {
+                    "id": 41253,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_1_hubcfm",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-18T06:51:39.725586Z",
+                    "updated_at": "2024-10-18T06:51:39.725605Z"
+                },
+                {
+                    "id": 41254,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_2_vkzlyi",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-18T06:51:40.549594Z",
+                    "updated_at": "2024-10-18T06:51:40.549613Z"
+                },
+                {
+                    "id": 41255,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_3_aj67ab",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-18T06:51:41.425462Z",
+                    "updated_at": "2024-10-18T06:51:41.425482Z"
+                },
+                {
+                    "id": 41256,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_okogc9",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-18T06:51:42.285451Z",
+                    "updated_at": "2024-10-18T06:51:42.285478Z"
+                },
+                {
+                    "id": 41257,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/road_1_yf98mh",
+                    "media_type": "image",
+                    "category": "approach_road",
+                    "created_at": "2024-10-18T06:51:42.920171Z",
+                    "updated_at": "2024-10-18T06:51:42.920198Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3912,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3666,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": false,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3657,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17578,
+                    "name": "Vikarabad",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18130,
+                    "name": "Pargi",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 27321,
+                    "name": "Mittakodur",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 1.0,
+                "guntas": 35.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 0.0,
+                "lakh": 58.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/vikarabad/pargi/mittakodur/3958",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "chevella highway",
+                    "slug": "chevella-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.915168Z",
+                    "updated_at": "2024-01-11T06:38:39.915204Z"
+                }
+            ],
+            "description": "",
+            "total_price": 108.75,
+            "price_per_acre": 58.0,
+            "price_per_hectare": null,
+            "total_land_size": 75.0,
+            "lat": "17.2074796",
+            "long": "77.7987245",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": true,
+            "fencing": false,
+            "crop_type": null,
+            "soil_type": "Red",
+            "created_at": "2024-10-18T06:51:37.433648Z",
+            "updated_at": "2024-10-18T12:33:12.100687Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B012'27.0%22N+77%C2%B047'55.3%22E/@17.2074796,77.7987245,103m/data=!3m1!1e3!4m10!1m5!3m4!2zMTfCsDEyJzI1LjYiTiA3N8KwNDcnNTMuOSJF!8m2!3d17.2071111!4d77.7983056!3m3!8m2!3d17.2075!4d77.7986944?hl=en&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "405",
+            "lp_number": null,
+            "electricity": false,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 15.0,
+            "approach_road_type": "formation",
+            "fencing_description": "",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 75.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        },
+        {
+            "id": 3957,
+            "land_media": [
+                {
+                    "id": 41240,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_1_mmvwpf",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-18T06:22:49.807539Z",
+                    "updated_at": "2024-10-18T06:22:49.807559Z"
+                },
+                {
+                    "id": 41241,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_2_aruzws",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-18T06:22:50.717718Z",
+                    "updated_at": "2024-10-18T06:22:50.717737Z"
+                },
+                {
+                    "id": 41242,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_3_hw6axv",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-18T06:22:51.589697Z",
+                    "updated_at": "2024-10-18T06:22:51.589717Z"
+                },
+                {
+                    "id": 41243,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_gkbpma",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-18T06:22:52.417696Z",
+                    "updated_at": "2024-10-18T06:22:52.417715Z"
+                },
+                {
+                    "id": 41244,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/road_1_u11jvx",
+                    "media_type": "image",
+                    "category": "approach_road",
+                    "created_at": "2024-10-18T06:22:53.154546Z",
+                    "updated_at": "2024-10-18T06:22:53.154566Z"
+                },
+                {
+                    "id": 41245,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/bore_qqheq3",
+                    "media_type": "image",
+                    "category": "water_source",
+                    "created_at": "2024-10-18T06:22:53.730990Z",
+                    "updated_at": "2024-10-18T06:22:53.731010Z"
+                },
+                {
+                    "id": 41246,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/current_kmn7zz",
+                    "media_type": "image",
+                    "category": "power_source",
+                    "created_at": "2024-10-18T06:22:54.341207Z",
+                    "updated_at": "2024-10-18T06:22:54.341227Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3911,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3665,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": true,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3656,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17578,
+                    "name": "Vikarabad",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18130,
+                    "name": "Pargi",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 27321,
+                    "name": "Mittakodur",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 1.0,
+                "guntas": 0.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 0.0,
+                "lakh": 50.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/vikarabad/pargi/mittakodur/3957",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "chevella highway",
+                    "slug": "chevella-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.915168Z",
+                    "updated_at": "2024-01-11T06:38:39.915204Z"
+                }
+            ],
+            "description": "",
+            "total_price": 50.0,
+            "price_per_acre": 50.0,
+            "price_per_hectare": null,
+            "total_land_size": 40.0,
+            "lat": "17.2019772",
+            "long": "77.8018325",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": true,
+            "fencing": false,
+            "crop_type": null,
+            "soil_type": "Red",
+            "created_at": "2024-10-18T06:22:47.579289Z",
+            "updated_at": "2024-10-18T12:34:26.260990Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B012'07.1%22N+77%C2%B048'06.5%22E/@17.2019772,77.8018325,86m/data=!3m1!1e3!4m10!1m5!3m4!2zMTfCsDEyJzA3LjYiTiA3N8KwNDgnMDcuMSJF!8m2!3d17.2021111!4d77.8019722!3m3!8m2!3d17.2019722!4d77.8018056?hl=en&entry=ttu&g_ep=EgoyMDI0MTAxNS4wIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "397",
+            "lp_number": null,
+            "electricity": true,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 20.0,
+            "approach_road_type": "kacha",
+            "fencing_description": "",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 75.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        },
+        {
+            "id": 3949,
+            "land_media": [
+                {
+                    "id": 41156,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_1_saqoyt",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T09:52:57.832716Z",
+                    "updated_at": "2024-10-17T09:52:57.832737Z"
+                },
+                {
+                    "id": 41157,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_2_emgkbe",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T09:52:58.638498Z",
+                    "updated_at": "2024-10-17T09:52:58.638519Z"
+                },
+                {
+                    "id": 41158,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_3_jlg56o",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T09:52:59.521911Z",
+                    "updated_at": "2024-10-17T09:52:59.521931Z"
+                },
+                {
+                    "id": 41159,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_mtwhau",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T09:53:00.551302Z",
+                    "updated_at": "2024-10-17T09:53:00.551323Z"
+                },
+                {
+                    "id": 41160,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/road_lsd7nd",
+                    "media_type": "image",
+                    "category": "approach_road",
+                    "created_at": "2024-10-17T09:53:01.229486Z",
+                    "updated_at": "2024-10-17T09:53:01.229507Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3903,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3657,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": false,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3648,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17578,
+                    "name": "Vikarabad",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18117,
+                    "name": "Bomraspet",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 27029,
+                    "name": "Metlakunta",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 1.0,
+                "guntas": 20.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 1.0,
+                "lakh": 50.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/vikarabad/bomraspet/metlakunta/3949",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "chevella highway",
+                    "slug": "chevella-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.915168Z",
+                    "updated_at": "2024-01-11T06:38:39.915204Z"
+                },
+                {
+                    "name": "highway_facing",
+                    "slug": "highway_facing",
+                    "tag_type": "highway_facing",
+                    "creator_type": "system",
+                    "created_at": "2023-12-13T13:23:02.350075Z",
+                    "updated_at": "2023-12-13T13:23:02.350144Z"
+                }
+            ],
+            "description": "",
+            "total_price": 225.0,
+            "price_per_acre": 150.0,
+            "price_per_hectare": null,
+            "total_land_size": 60.0,
+            "lat": "17.1570304",
+            "long": "77.7739556",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": true,
+            "fencing": false,
+            "crop_type": null,
+            "soil_type": "Red",
+            "created_at": "2024-10-17T09:52:55.359980Z",
+            "updated_at": "2024-10-17T11:37:30.833331Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B009'25.5%22N+77%C2%B046'26.0%22E/@17.1570304,77.7739556,173m/data=!3m1!1e3!4m4!3m3!8m2!3d17.1570864!4d77.773879?hl=en&entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "290,291",
+            "lp_number": null,
+            "electricity": false,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 100.0,
+            "approach_road_type": "highway_road",
+            "fencing_description": "",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 77.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        },
+        {
+            "id": 3948,
+            "land_media": [
+                {
+                    "id": 41144,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_1_vpdu65",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T08:00:23.399055Z",
+                    "updated_at": "2024-10-17T08:00:23.399077Z"
+                },
+                {
+                    "id": 41145,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_3_higduv",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T08:00:24.366568Z",
+                    "updated_at": "2024-10-17T08:00:24.366590Z"
+                },
+                {
+                    "id": 41146,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_4_httkls",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T08:00:25.165395Z",
+                    "updated_at": "2024-10-17T08:00:25.165417Z"
+                },
+                {
+                    "id": 41147,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_fuus35",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T08:00:26.275785Z",
+                    "updated_at": "2024-10-17T08:00:26.275807Z"
+                },
+                {
+                    "id": 41148,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/road_1_lc0bjd",
+                    "media_type": "image",
+                    "category": "approach_road",
+                    "created_at": "2024-10-17T08:00:27.353743Z",
+                    "updated_at": "2024-10-17T08:00:27.353765Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3902,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3656,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": false,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3647,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17578,
+                    "name": "Vikarabad",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18117,
+                    "name": "Bomraspet",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 27026,
+                    "name": "Dupcherla",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 3.0,
+                "guntas": 31.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 0.0,
+                "lakh": 60.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/vikarabad/bomraspet/dupcherla/3948",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "chevella highway",
+                    "slug": "chevella-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.915168Z",
+                    "updated_at": "2024-01-11T06:38:39.915204Z"
+                }
+            ],
+            "description": "",
+            "total_price": 226.5,
+            "price_per_acre": 60.0,
+            "price_per_hectare": null,
+            "total_land_size": 151.0,
+            "lat": "17.2059375",
+            "long": "77.7144756",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": true,
+            "fencing": false,
+            "crop_type": null,
+            "soil_type": "Red",
+            "created_at": "2024-10-17T08:00:21.190942Z",
+            "updated_at": "2024-10-17T12:36:39.603115Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B012'21.4%22N+77%C2%B042'51.8%22E/@17.2059375,77.7144756,122m/data=!3m1!1e3!4m4!3m3!8m2!3d17.20595!4d77.71438?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "112",
+            "lp_number": null,
+            "electricity": false,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 60.0,
+            "approach_road_type": "blacktop",
+            "fencing_description": "",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 89.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        },
+        {
+            "id": 3947,
+            "land_media": [
+                {
+                    "id": 41135,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_1_b55cyl",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:35:35.595464Z",
+                    "updated_at": "2024-10-17T07:35:35.595485Z"
+                },
+                {
+                    "id": 41136,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_2_kforoe",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:35:36.326783Z",
+                    "updated_at": "2024-10-17T07:35:36.326832Z"
+                },
+                {
+                    "id": 41137,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_3_vhhrgq",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:35:37.094252Z",
+                    "updated_at": "2024-10-17T07:35:37.094271Z"
+                },
+                {
+                    "id": 41138,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_cbmjmn",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:35:38.135306Z",
+                    "updated_at": "2024-10-17T07:35:38.135324Z"
+                },
+                {
+                    "id": 41139,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/road_1_dl3mdv",
+                    "media_type": "image",
+                    "category": "approach_road",
+                    "created_at": "2024-10-17T07:35:38.968367Z",
+                    "updated_at": "2024-10-17T07:35:38.968388Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3901,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3655,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": false,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3646,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17578,
+                    "name": "Vikarabad",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18122,
+                    "name": "Yelal",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 27151,
+                    "name": "Yelal",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 2.0,
+                "guntas": 0.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 0.0,
+                "lakh": 27.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/vikarabad/yelal/yelal/3947",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "chevella highway",
+                    "slug": "chevella-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.915168Z",
+                    "updated_at": "2024-01-11T06:38:39.915204Z"
+                }
+            ],
+            "description": "",
+            "total_price": 54.0,
+            "price_per_acre": 27.0,
+            "price_per_hectare": null,
+            "total_land_size": 80.0,
+            "lat": "17.2198014",
+            "long": "77.6652505",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": true,
+            "fencing": false,
+            "crop_type": "Paddy",
+            "soil_type": "Black",
+            "created_at": "2024-10-17T07:35:33.349318Z",
+            "updated_at": "2024-10-17T13:01:12.992633Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B013'11.3%22N+77%C2%B039'54.7%22E/@17.2198014,77.6652505,145m/data=!3m1!1e3!4m10!1m5!3m4!2zMTfCsDEzJzExLjIiTiA3N8KwMzknNTQuMCJF!8m2!3d17.2197778!4d77.665!3m3!8m2!3d17.2198056!4d77.6651944?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "114",
+            "lp_number": null,
+            "electricity": false,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 18.0,
+            "approach_road_type": "formation",
+            "fencing_description": "",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 99.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        },
+        {
+            "id": 3946,
+            "land_media": [
+                {
+                    "id": 41121,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_1_dyds6o",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:24:52.518324Z",
+                    "updated_at": "2024-10-17T07:24:52.518346Z"
+                },
+                {
+                    "id": 41122,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_2_il4x2o",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:24:53.398373Z",
+                    "updated_at": "2024-10-17T07:24:53.398393Z"
+                },
+                {
+                    "id": 41123,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_3_o9j6v4",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:24:54.199859Z",
+                    "updated_at": "2024-10-17T07:24:54.199880Z"
+                },
+                {
+                    "id": 41124,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_4_rmy4bf",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:24:55.094499Z",
+                    "updated_at": "2024-10-17T07:24:55.094519Z"
+                },
+                {
+                    "id": 41125,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_kgu54x",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:24:55.898011Z",
+                    "updated_at": "2024-10-17T07:24:55.898032Z"
+                },
+                {
+                    "id": 41126,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/road_1_gkkkq8",
+                    "media_type": "image",
+                    "category": "approach_road",
+                    "created_at": "2024-10-17T07:24:56.508088Z",
+                    "updated_at": "2024-10-17T07:24:56.508111Z"
+                },
+                {
+                    "id": 41127,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/fencing_1_ixsygc",
+                    "media_type": "image",
+                    "category": "fencing",
+                    "created_at": "2024-10-17T07:24:57.489151Z",
+                    "updated_at": "2024-10-17T07:24:57.489172Z"
+                },
+                {
+                    "id": 41128,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/bore_ysjocg",
+                    "media_type": "image",
+                    "category": "water_source",
+                    "created_at": "2024-10-17T07:24:59.138919Z",
+                    "updated_at": "2024-10-17T07:24:59.138939Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3900,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3654,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": true,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3645,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17578,
+                    "name": "Vikarabad",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18134,
+                    "name": "Peddemul",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 27435,
+                    "name": "Mansampalle",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 6.0,
+                "guntas": 0.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 1.0,
+                "lakh": 0.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/vikarabad/peddemul/mansampalle/3946",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "shankarpally road",
+                    "slug": "shankarpally-road",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.855501Z",
+                    "updated_at": "2024-01-11T06:38:39.855533Z"
+                },
+                {
+                    "name": "chevella highway",
+                    "slug": "chevella-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.915168Z",
+                    "updated_at": "2024-01-11T06:38:39.915204Z"
+                }
+            ],
+            "description": "",
+            "total_price": 600.0,
+            "price_per_acre": 100.0,
+            "price_per_hectare": null,
+            "total_land_size": 240.0,
+            "lat": "17.3144482",
+            "long": "77.7107408",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": true,
+            "fencing": true,
+            "crop_type": "Paddy",
+            "soil_type": "Black",
+            "created_at": "2024-10-17T07:24:50.153087Z",
+            "updated_at": "2024-10-17T11:40:22.466918Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B018'52.1%22N+77%C2%B042'38.5%22E/@17.3144482,77.7107408,73m/data=!3m1!1e3!4m4!3m3!8m2!3d17.314464!4d77.710694?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "87,88,89",
+            "lp_number": null,
+            "electricity": true,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 40.0,
+            "approach_road_type": "blacktop",
+            "fencing_description": "This land is surrounded by a barbed wire fence along its boundary, with a front gate.",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 80.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        },
+        {
+            "id": 3945,
+            "land_media": [
+                {
+                    "id": 41112,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_1_lyffe2",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:10:01.535252Z",
+                    "updated_at": "2024-10-17T07:10:01.535274Z"
+                },
+                {
+                    "id": 41113,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_2_gvmfnb",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:10:02.352091Z",
+                    "updated_at": "2024-10-17T07:10:02.352122Z"
+                },
+                {
+                    "id": 41114,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/land_3_y2dd0e",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:10:03.221078Z",
+                    "updated_at": "2024-10-17T07:10:03.221099Z"
+                },
+                {
+                    "id": 41115,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/location_1_pemzub",
+                    "media_type": "image",
+                    "category": "land",
+                    "created_at": "2024-10-17T07:10:04.190997Z",
+                    "updated_at": "2024-10-17T07:10:04.191020Z"
+                },
+                {
+                    "id": 41116,
+                    "video": null,
+                    "image": "https://res.cloudinary.com/dy530bex0/image/upload/w_500,f_auto/v1/media/images/road_1_bviiwv",
+                    "media_type": "image",
+                    "category": "approach_road",
+                    "created_at": "2024-10-17T07:10:04.778221Z",
+                    "updated_at": "2024-10-17T07:10:04.778242Z"
+                }
+            ],
+            "land_bookmark_data": [
+                {
+                    "id": 3899,
+                    "one_acre_premium": false,
+                    "chance": false,
+                    "site_verification": false,
+                    "investors": false
+                }
+            ],
+            "water_source_data": [
+                {
+                    "id": 3653,
+                    "well": false,
+                    "canal": false,
+                    "drip": false,
+                    "sprinkler": false,
+                    "bore_well": false,
+                    "stream": false
+                }
+            ],
+            "land_zone_data": [
+                {
+                    "id": 3644,
+                    "mumbai_highway": false,
+                    "shankarpally_road": false,
+                    "chevella_highway": false,
+                    "bengaluru_highway": false,
+                    "srisailam_highway": false,
+                    "nagarjunasagar_highway": false,
+                    "vijayawada_highway": false,
+                    "warangal_highway": false,
+                    "karimnagar_rajiv_rahadari": false,
+                    "nagpur_highway": false,
+                    "nanded_highway": false
+                }
+            ],
+            "division_info": [
+                {
+                    "id": 24,
+                    "name": "Telangana",
+                    "division_type": "state"
+                },
+                {
+                    "id": 17578,
+                    "name": "Vikarabad",
+                    "division_type": "district"
+                },
+                {
+                    "id": 18122,
+                    "name": "Yelal",
+                    "division_type": "mandal"
+                },
+                {
+                    "id": 27151,
+                    "name": "Yelal",
+                    "division_type": "village"
+                }
+            ],
+            "seller": {
+                "id": 211,
+                "name": "Veeresh",
+                "seller_type": "agent",
+                "is_verified": true,
+                "profile_picture": "https://res.cloudinary.com/dy530bex0/image/upload/v1/media/images/Veeresh_nhaqoi",
+                "slug": "veeresh-211",
+                "total_lands_count": 137,
+                "total_plots_count": 0
+            },
+            "seller_type": "agent",
+            "created_by": {
+                "id": 6109,
+                "name": "Keerthy"
+            },
+            "is_shortlisted": false,
+            "is_basic_verified": true,
+            "total_land_size_in_acres": {
+                "acres": 1.0,
+                "guntas": 22.0
+            },
+            "total_land_size_in_hectares": null,
+            "price_per_acre_crore": {
+                "crore": 0.0,
+                "lakh": 25.0
+            },
+            "price_per_hectare_crore": null,
+            "slug": "telangana/vikarabad/yelal/yelal/3945",
+            "is_exact": true,
+            "tags": [
+                {
+                    "name": "chevella highway",
+                    "slug": "chevella-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.915168Z",
+                    "updated_at": "2024-01-11T06:38:39.915204Z"
+                },
+                {
+                    "name": "bengaluru highway",
+                    "slug": "bengaluru-highway",
+                    "tag_type": "highway",
+                    "creator_type": "system",
+                    "created_at": "2024-01-11T06:38:39.969901Z",
+                    "updated_at": "2024-01-11T06:38:39.969918Z"
+                }
+            ],
+            "description": "",
+            "total_price": 38.75,
+            "price_per_acre": 25.0,
+            "price_per_hectare": null,
+            "total_land_size": 62.0,
+            "lat": "17.2120583",
+            "long": "77.6745773",
+            "is_chance": false,
+            "status": "active",
+            "exposure_type": "public",
+            "verification_status": "approved",
+            "is_physically_verified": false,
+            "approach_road": true,
+            "fencing": false,
+            "crop_type": null,
+            "soil_type": "Red",
+            "created_at": "2024-10-17T07:09:59.233460Z",
+            "updated_at": "2024-10-17T11:09:41.408361Z",
+            "location_link": "https://www.google.com/maps/place/17%C2%B012'43.5%22N+77%C2%B040'28.3%22E/@17.2120583,77.6745773,103m/data=!3m1!1e3!4m4!3m3!8m2!3d17.21209!4d77.674525?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D",
+            "approximate_location_link": "",
+            "survey_number": "128",
+            "lp_number": null,
+            "electricity": false,
+            "existing_structure": null,
+            "additional_info": null,
+            "approach_road_length": 10.0,
+            "approach_road_type": "formation",
+            "fencing_description": "",
+            "disclaimer": null,
+            "status_change_reason": null,
+            "distance_from_orr": 96.0,
+            "deprecated_tags": null,
+            "land_certificate": null,
+            "state": null,
+            "district": null,
+            "mandal": null,
+            "village": null
+        }
+    ],
+    "next": 2,
+    "previous": null
+}
