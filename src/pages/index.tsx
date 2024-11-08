@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import GoogleMap from "@/components/map";
-import { getLandDetails, getLandLocationDetails } from "@/services";
 import Lands from "@/components/lands";
+import { getLandDetails, getLandLocationDetails } from "@/services";
 
 export default function Home() {
   const [landDetails, setLandDetails] = useState<Array<any>>([]);
