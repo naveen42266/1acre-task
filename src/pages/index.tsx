@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import GoogleMap from "@/components/map";
 import Lands from "@/components/lands";
 import { getLandDetails, getLandLocationDetails } from "@/services";
@@ -26,6 +26,8 @@ export default function Home() {
     return crores + lakhs / 100;
   }
 
+  const locationDetailsCallback = useCallback(() => locationDetails, [locationDetails]);
+
   useEffect(() => {
     async function fetchData() {
       const landData = await getLandDetails();
@@ -39,7 +41,7 @@ export default function Home() {
 
   return (
     <div>
-      <GoogleMap lat={17.3978971} lng={77.8618485} zoom={9} locationDetails={locationDetails} />
+      <GoogleMap lat={17.3978971} lng={77.8618485} zoom={9} locationDetails={locationDetailsCallback()} />
       <Lands landDetails={landDetails} slides={slides} calculateTotalInCrores={calculateTotalInCrores} prevSlide={prevSlide} nextSlide={nextSlide} />
     </div>
   );

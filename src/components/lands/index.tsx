@@ -38,7 +38,7 @@ const Lands: React.FC<LandsProps> = ({
                     key={idx}
                     className={`${
                       slides[index] === idx ? 'block' : 'hidden'
-                    } h-[180px] w-full rounded-t-lg object-cover`}
+                    } h-[300px] md:h-[180px] w-full rounded-t-lg object-cover`}
                   />
                 )
               )}
