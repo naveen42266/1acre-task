@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm install --force && next build",
+    "build": "npm run build",
     "start": "next start",
     "lint": "next lint",
     "vercel-build": "npm install --legacy-peer-deps && npm run build"
@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^16.0.0",
+    "@types/react": "^18.3.12",
     "@types/react-dom": "^18",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
