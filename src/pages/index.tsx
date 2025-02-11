@@ -34,7 +34,7 @@ export default function Home() {
       setLandDetails(landData?.data?.results || []);
       setSlides(new Array(landData?.data?.results?.length || 0).fill(0));
       const locationData = await getLandLocationDetails();
-      setLocationDetails(locationData?.data || []);
+      setLocationDetails(locationData?.data?.results || []);
     }
     fetchData();
   }, []);

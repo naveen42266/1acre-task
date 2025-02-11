@@ -7,15 +7,15 @@ import ArrowForwardIosOutlinedIcon from '@mui/icons-material/ArrowForwardIosOutl
 interface LandsProps {
   landDetails?: Array<any>;
   slides?: Array<number>;
-  calculateTotalInCrores?: (crore: any, lakhs: any) => number; 
+  calculateTotalInCrores?: (crore: any, lakhs: any) => number;
   prevSlide?: (id: number) => void;
   nextSlide?: (id: number) => void;
 }
 
 const Lands: React.FC<LandsProps> = ({
   landDetails = [],
-  slides = [], 
-  calculateTotalInCrores = () => 0, 
+  slides = [],
+  calculateTotalInCrores = () => 0,
   prevSlide = () => {},
   nextSlide = () => {},
 }) => {
@@ -23,8 +23,8 @@ const Lands: React.FC<LandsProps> = ({
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 pt-4 w-full mb-4">
       {landDetails.map((ele, index) => {
         const totalInCrores = calculateTotalInCrores(
-          ele?.price_per_acre_crore?.crore,
-          ele?.price_per_acre_crore?.lakh
+          ele?.land_price?.price_per_acre_crore?.crore,
+          ele?.land_price?.price_per_acre_crore?.lakh
         );
 
         return (
@@ -62,9 +62,9 @@ const Lands: React.FC<LandsProps> = ({
             <div className="p-2">
               <div className="flex flex-row gap-1 items-center">
                 <div className="font-bold text-base">
-                  ₹ {totalInCrores > 1 ? `${totalInCrores} Cr` : `${ele?.price_per_acre_crore?.lakh} Lakhs`} /acre •{' '}
-                  {ele?.total_land_size_in_acres?.acres > 0 ? `${ele?.total_land_size_in_acres?.acres} Acres` : ''}{' '}
-                  {ele?.total_land_size_in_acres?.guntas > 0 ? `${ele?.total_land_size_in_acres?.guntas} Guntas` : ''}
+                  ₹ {totalInCrores > 1 ? `${totalInCrores} Cr` : `${ele?.land_price?.price_per_acre_crore?.lakh} Lakhs`} /acre •{' '}
+                  {ele?.land_size?.total_land_size_in_acres?.acres > 0 ? `${ele?.land_size?.total_land_size_in_acres?.acres} Acres` : ''}{' '}
+                  {ele?.land_size?.total_land_size_in_acres?.guntas > 0 ? `${ele?.land_size?.total_land_size_in_acres?.guntas} Guntas` : ''}
                 </div>
                 <svg
                   className="mt-1"

@@ -60,21 +60,15 @@ const Map: React.FC<MapProps> = ({ lat, lng, zoom, locationDetails }) => {
           },
         }}
       >
-        {locationDetails?.map((locationData: {
-          id: React.Key | null | undefined; lat: string; long: string; total_land_size_in_acres: {
-            guntas: number; acres: any;
-          }; price_per_acre_crore: { crore: number; lakh: any; };
-        }, index) => {
-          return (
-            <Marker
-              key={index}
-              position={{ lat: parseFloat(locationData.lat), lng: parseFloat(locationData.long) }}
-              icon={locationData?.price_per_acre_crore?.crore > 0 ? orangeCircleIcon : yellowCircleIcon}
-              title={`${locationData?.total_land_size_in_acres?.acres > 0 ? `${locationData?.total_land_size_in_acres?.acres} Acres` : ''} ${locationData?.total_land_size_in_acres?.guntas > 0 ? `${locationData?.total_land_size_in_acres?.guntas} Guntas` : ''}- ₹ ${locationData?.price_per_acre_crore?.crore > 0 ? `${locationData?.price_per_acre_crore?.crore} crore` : ''} ${locationData?.price_per_acre_crore?.lakh > 0 ? locationData?.price_per_acre_crore?.lakh + ' lakh' : ''} per acre`}
-              ria-label={`${locationData?.total_land_size_in_acres?.acres > 0 ? `${locationData?.total_land_size_in_acres?.acres} Acres` : ''} ${locationData?.total_land_size_in_acres?.guntas > 0 ? `${locationData?.total_land_size_in_acres?.guntas} Guntas` : ''}- ₹ ${locationData?.price_per_acre_crore?.crore > 0 ? `${locationData?.price_per_acre_crore?.crore} crore` : ''} ${locationData?.price_per_acre_crore?.lakh > 0 ? locationData?.price_per_acre_crore?.lakh + ' lakh' : ''} per acre`}
-            />
-          )
-        })}
+       {locationDetails?.map((locationData, index) => (
+          <Marker
+            key={index}
+            position={{ lat: parseFloat(locationData.lat), lng: parseFloat(locationData.long) }}
+            icon={locationData.land_price.price_per_acre_crore.crore > 0 ? orangeCircleIcon : yellowCircleIcon}
+            title={`${locationData.land_size.total_land_size_in_acres.acres > 0 ? `${locationData.land_size.total_land_size_in_acres.acres} Acres` : ''} ${locationData.land_size.total_land_size_in_acres.guntas > 0 ? `${locationData.land_size.total_land_size_in_acres.guntas} Guntas` : ''}- ₹ ${locationData.land_price.price_per_acre_crore.crore > 0 ? `${locationData.land_price.price_per_acre_crore.crore} crore` : ''} ${locationData.land_price.price_per_acre_crore.lakh > 0 ? locationData.land_price.price_per_acre_crore.lakh + ' lakh' : ''} per acre`}
+            aria-label={`${locationData.land_size.total_land_size_in_acres.acres > 0 ? `${locationData.land_size.total_land_size_in_acres.acres} Acres` : ''} ${locationData.land_size.total_land_size_in_acres.guntas > 0 ? `${locationData.land_size.total_land_size_in_acres.guntas} Guntas` : ''}- ₹ ${locationData.land_price.price_per_acre_crore.crore > 0 ? `${locationData.land_price.price_per_acre_crore.crore} crore` : ''} ${locationData.land_price.price_per_acre_crore.lakh > 0 ? locationData.land_price.price_per_acre_crore.lakh + ' lakh' : ''} per acre`}
+          />
+        ))}
       </GoogleMap>
     </div>
   );
